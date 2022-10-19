@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/HelloMaven/pom.xml" />
         <option value="$PROJECT_DIR$/FirstMaven/pom.xml" />
+        <option value="$PROJECT_DIR$/FirstSpring/pom.xml" />
       </list>
     </option>
   </component>
